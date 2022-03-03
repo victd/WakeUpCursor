@@ -34,7 +34,8 @@ while i < duration:
 
 # can pyautogui prevent win10 screen lock??
 # Yes it can. But sadly not by moving mouse which I don't know why
-# and would like to know. So, my suggestion is to use pyautogui KEYBOARD EVENTS
+# and would like to know. Also you can set a longer timeout for the screensave
+# So, my suggestion is to use pyautogui KEYBOARD EVENTS
 # if possible. I have solved my problems by using VOLUME-UP & VOLUME-DOWN keys.
 # Example code is provided below:
 
