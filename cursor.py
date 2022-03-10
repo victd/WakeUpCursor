@@ -37,6 +37,7 @@ while i < duration:
 # and would like to know. Also you can set a longer timeout for the screensave
 # So, my suggestion is to use pyautogui KEYBOARD EVENTS
 # if possible. I have solved my problems by using VOLUME-UP & VOLUME-DOWN keys.
+# Also, not sure if windows power save settings overrides the vol-up, vol-down 
 # Example code is provided below:
 
 #import pyautogui
