@@ -38,6 +38,7 @@ while i < duration:
 # So, my suggestion is to use pyautogui KEYBOARD EVENTS
 # if possible. I have solved my problems by using VOLUME-UP & VOLUME-DOWN keys.
 # Also, not sure if windows power save settings overrides the vol-up, vol-down 
+# difficult to book the right time, I don't see opportunity, create opportunity,  then back out of necessary
 # Example code is provided below:
 
 #import pyautogui
