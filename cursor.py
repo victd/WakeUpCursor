@@ -40,6 +40,7 @@ while i < duration:
 # Also, not sure if windows power save settings overrides the vol-up, vol-down 
 # difficult to book the right time, I don't see opportunity, create opportunity,  then back out of necessary
 # ensure the hardware is connected
+# the ports can't be dangling
 # Example code is provided below:
 
 #import pyautogui
