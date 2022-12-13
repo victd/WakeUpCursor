@@ -41,7 +41,7 @@ while i < duration:
 # difficult to book the right time, I don't see opportunity, create opportunity,  then back out if necessary
 # ensure the hardware is connected
 # the ports can't be dangling, have all calls scheduled so important dates are booked
-# usage of all allocated per diem
+# usage of all allocated per diem.  Calendars Gregorian, then switch to Julian
 # Example code is provided below:
 
 #import pyautogui
