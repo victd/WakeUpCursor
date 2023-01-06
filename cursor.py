@@ -32,7 +32,7 @@ while i < duration:
 
 # type ctl-c to end script in terminal.
 
-# can pyautogui prevent win10 screen lock??
+# can pyautogui prevent win10 screen lock??   awaken cursor
 # Yes it can. But sadly not by moving mouse which I don't know why
 # and would like to know. Also you can set a longer timeout for the screensave
 # So, my suggestion is to use pyautogui KEYBOARD EVENTS
