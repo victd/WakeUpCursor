@@ -42,6 +42,7 @@ while i < duration:
 # ensure the hardware is connected
 # the ports can't be dangling, have all calls scheduled so important dates are booked
 # usage of all allocated per diem.  Calendars Gregorian, then switch to Julian
+# cyber technologist help
 # push notification works and power play score - Makarios - blessed
 # Example code is provided below:
 
