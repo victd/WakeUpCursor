@@ -44,6 +44,7 @@ while i < duration:
 # usage of all allocated per diem.  Calendars Gregorian, then switch to Julian
 # cyber technologist help
 # push notification works and power play score - Makarios - blessed, invites
+# course on PluralSight
 # Example code is provided below:
 
 #import pyautogui
