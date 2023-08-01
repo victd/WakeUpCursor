@@ -45,6 +45,7 @@ while i < duration:
 # cyber technologist help
 # push notification works and power play score - Makarios - blessed, invites
 # Metanoia - change of heart, repent
+# Adelphoi - brother, sister
 # Ekklesia - called out ones, save or lose Matt 16:25, love neighbor Leviticus 19:18
 # course on PluralSight
 # Example code is provided below:
