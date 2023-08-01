@@ -1,6 +1,7 @@
 
 
 
+
 import pyautogui
 import time
 
@@ -46,6 +47,7 @@ while i < duration:
 # push notification works and power play score - Makarios - blessed, invites
 # Metanoia - change of heart, repent
 # Adelphoi - brother, sister
+# Gregorio - Tarry, attentive, responsible
 # Ekklesia - called out ones, save or lose Matt 16:25, love neighbor Leviticus 19:18
 # course on PluralSight
 # Example code is provided below:
