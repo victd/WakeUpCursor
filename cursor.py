@@ -43,7 +43,7 @@ while i < duration:
 # ensure the hardware is connected
 # the ports can't be dangling, have all calls scheduled so important dates are booked
 # usage of all allocated per diem.  Calendars Gregorian, then switch to Julian
-# cyber technologist help
+# cyber technologist help, add to Selenium
 # push notification works and power play score - Makarios - blessed, invites
 # Metanoia - change of heart, repent
 # Adelphoi - brother, sister
