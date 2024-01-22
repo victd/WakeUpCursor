@@ -50,6 +50,7 @@ while i < duration:
 # Adelphoi - brother, sister
 # Gregorio - Tarry, attentive, responsible
 # Ekklesia - called out ones, save or lose Matt 16:25, love neighbor Leviticus 19:18
+# Parakletos - helper to come along side, counsellor
 # course on PluralSight
 # Example code is provided below:
 
