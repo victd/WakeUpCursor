@@ -38,6 +38,7 @@ while i < duration:
 # and would like to know. Also you can set a longer timeout for the screensave
 # So, my suggestion is to use pyautogui KEYBOARD EVENTS
 # if possible. I have solved my problems by using VOLUME-UP & VOLUME-DOWN keys.
+# windows keyboard or keyboard for Mac OS
 # Also, not sure if windows power save settings overrides the vol-up, vol-down 
 # difficult to book the right time, I don't see opportunity, create opportunity,  then back out if necessary
 # take counsel, paracletos
